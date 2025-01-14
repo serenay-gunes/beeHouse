@@ -1,0 +1,11 @@
+# macOS sistem dosyaları
+.DS_Store
+
+# Xcode bağımlılık ve yapı dosyaları
+Pods/
+Podfile.lock
+xcuserdata/
+DerivedData/
+
+# Firebase gizli dosyaları
+GoogleService-Info.plist
